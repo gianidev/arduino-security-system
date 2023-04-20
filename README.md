@@ -1,4 +1,4 @@
-# Arduino/GSM based Security system
+# GSM Arduino-based security system
 
 This is a security system based on Arduino that has the ability to detect motion and send alerts through text messages (SMS). This device also allows users to remotely control it via SMS to activate or deactivate it as needed. In addition, the system includes other electronic components such as LED lights and a buzzer that are activated or deactivated depending on the detection of motion while in operation. 
 
@@ -31,3 +31,4 @@ When the device is turned on, a green LED will illuminate to indicate that the s
 Users can interact with the device using SMS commands, including "OFF" to turn off the buzzer and LEDs. After this, the device will no longer detect movement until the user restarts the Arduino or sends the "ON" command. When the "ON" command is received, the green LED will light up, and the system will be on alert for possible movements.
 
 Upon receiving these commands, the Arduino will send a message informing the user of the current state of the alarm, such as "Alarm on" or "Alarm off".
+
