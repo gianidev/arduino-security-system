@@ -4,7 +4,9 @@
 
 This is a security system based on Arduino that has the ability to detect motion and send alerts through text messages (SMS). This device also allows users to remotely control it via SMS to activate or deactivate it as needed. In addition, the system includes other electronic components such as LED lights and a buzzer that are activated or deactivated depending on the detection of motion while in operation. 
 
-You can find some photos of my prototye [here](https://imgur.com/a/BZvCLkA).
+![imagen](https://github.com/gianidev/arduino-security-system/assets/36320743/225c4673-1e2c-430c-beb6-0dbc57a23bed)
+
+You can find more photos of my prototye [here](https://imgur.com/a/BZvCLkA).
 
 ## Usage
 
